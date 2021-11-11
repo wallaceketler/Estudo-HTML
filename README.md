@@ -33,7 +33,7 @@ Por fim, caso a compra seja finalizada, o agredecimento ocorre
 
 **Atenção**: Neste projeto os dados inseridos não são tratados, apenas HTML foi usado!
 
-##Comandos e Padrões essenciais
+## Comandos e Padrões essenciais
 
 Uma boa forma de decorar comandos é escrevê-los e salva-los para consulta, segue abaixo os que eu mais uso até então:
 
